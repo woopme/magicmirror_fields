@@ -236,6 +236,14 @@
 | XL |
 | XXL |
 
+## Sex Dirty
+
+| Key | Name |
+|:------- |:----- |
+| no_dirty| No dirty |
+| ws_only| WS only |
+| dirty| Dirty |
+
 ## HIV Status
 
 | Key | Name |
